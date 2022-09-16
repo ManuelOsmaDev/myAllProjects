@@ -1,0 +1,15 @@
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\bin\Debug\net6.0\Ejemplo2.exe
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\bin\Debug\net6.0\Ejemplo2.deps.json
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\bin\Debug\net6.0\Ejemplo2.runtimeconfig.json
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\bin\Debug\net6.0\Ejemplo2.dll
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\bin\Debug\net6.0\Ejemplo2.pdb
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\obj\Debug\net6.0\Ejemplo2.csproj.AssemblyReference.cache
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\obj\Debug\net6.0\Ejemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\obj\Debug\net6.0\Ejemplo2.AssemblyInfoInputs.cache
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\obj\Debug\net6.0\Ejemplo2.AssemblyInfo.cs
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\obj\Debug\net6.0\Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\obj\Debug\net6.0\Ejemplo2.dll
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\obj\Debug\net6.0\refint\Ejemplo2.dll
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\obj\Debug\net6.0\Ejemplo2.pdb
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\obj\Debug\net6.0\Ejemplo2.genruntimeconfig.cache
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\Ejemplo2\obj\Debug\net6.0\ref\Ejemplo2.dll

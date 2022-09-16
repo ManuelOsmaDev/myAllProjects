@@ -1,0 +1,15 @@
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\bin\Debug\net6.0\coreEscuela.exe
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\bin\Debug\net6.0\coreEscuela.deps.json
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\bin\Debug\net6.0\coreEscuela.runtimeconfig.json
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\bin\Debug\net6.0\coreEscuela.dll
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\bin\Debug\net6.0\coreEscuela.pdb
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\obj\Debug\net6.0\coreEscuela.csproj.AssemblyReference.cache
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\obj\Debug\net6.0\coreEscuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\obj\Debug\net6.0\coreEscuela.AssemblyInfoInputs.cache
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\obj\Debug\net6.0\coreEscuela.AssemblyInfo.cs
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\obj\Debug\net6.0\coreEscuela.csproj.CoreCompileInputs.cache
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\obj\Debug\net6.0\coreEscuela.dll
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\obj\Debug\net6.0\refint\coreEscuela.dll
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\obj\Debug\net6.0\coreEscuela.pdb
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\obj\Debug\net6.0\coreEscuela.genruntimeconfig.cache
+C:\Users\jsanchez\Desktop\projects\c#\coreEscuela\obj\Debug\net6.0\ref\coreEscuela.dll
