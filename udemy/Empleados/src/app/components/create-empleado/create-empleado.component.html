@@ -1,0 +1,62 @@
+<div class="container pt-4">
+  <div class="row">
+    <div class="col-lg-6 offset-lg-3">
+      <div class="card text-center">
+        <div class="card-body">
+          <h3>Agregar
+            <div *ngIf="loading"  class="spinner-border" role="status">
+              <span class="visually-hidden float-end">Loading...</span>
+            </div>
+          </h3>
+          <span *ngIf="submitted && createEmpleado.invalid" class="badge text-bg-danger">TODOS LO CAMPOS SON OBLIGATORIOS</span>
+          <form class="mt-4" [formGroup]="createEmpleado" (ngSubmit)="agregarEditarEmpleado()">
+            <div class="row">
+              <div class="col">
+                <input
+                  type="text"
+                  formControlName="nombre"
+                  class="form-control form-control-lg"
+                  placeholder="Nombre"
+                />
+              </div>
+              <div class="col">
+                <input
+                  type="text"
+                  formControlName="apellido"
+                  class="form-control form-control-lg"
+                  placeholder="Apellido"
+                />
+              </div>
+            </div>
+            <input
+              type="text"
+              formControlName="documento"
+              class="form-control form-control-lg mt-4"
+              placeholder="Documento"
+            />
+            <input
+              type="number"
+              formControlName="salario"
+              class="form-control form-control-lg mt-4"
+              placeholder="Salario"
+            />
+
+            <div class="mt-3">
+              <button
+                routerLink="/list-empleados"
+                type="text"
+                class="btn btn-primary btn-lg"
+                style="margin-right: 10px"
+              >
+                Volver
+              </button>
+              <button type="submit" class="btn btn-success btn-lg">
+                Agregar
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
