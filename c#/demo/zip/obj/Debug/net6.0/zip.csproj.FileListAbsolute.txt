@@ -1,0 +1,17 @@
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\bin\Debug\net6.0\zip.exe
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\bin\Debug\net6.0\zip.deps.json
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\bin\Debug\net6.0\zip.runtimeconfig.json
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\bin\Debug\net6.0\zip.dll
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\bin\Debug\net6.0\zip.pdb
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\obj\Debug\net6.0\zip.csproj.AssemblyReference.cache
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\obj\Debug\net6.0\zip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\obj\Debug\net6.0\zip.AssemblyInfoInputs.cache
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\obj\Debug\net6.0\zip.AssemblyInfo.cs
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\obj\Debug\net6.0\zip.csproj.CoreCompileInputs.cache
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\obj\Debug\net6.0\zip.dll
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\obj\Debug\net6.0\refint\zip.dll
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\obj\Debug\net6.0\zip.pdb
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\obj\Debug\net6.0\zip.genruntimeconfig.cache
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\obj\Debug\net6.0\ref\zip.dll
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\bin\Debug\net6.0\NLog.dll
+C:\Users\jsanchez\Desktop\projects\c#\demo\zip\obj\Debug\net6.0\zip.csproj.CopyComplete

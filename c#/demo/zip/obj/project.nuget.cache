@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "orDxuiwi76cdsVl69kwQrezazSAKncSdcC0xjsgKaaU0KLE2CR7oqXRK+X+3JZd+FKVy8ou7UNiuUb2768tSPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jsanchez\\Desktop\\projects\\c#\\demo\\zip\\zip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsanchez\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
